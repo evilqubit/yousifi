@@ -1,0 +1,280 @@
+2014-10-01 13:47:58 Logins/102014/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2014-10-01 13:48:04 Notice: Notice (8): Undefined variable: output_lname in [/home/hbku/www/app/View/Users/admin_index.ctp, line 117]
+Trace:
+include - APP/View/Users/admin_index.ctp, line 117
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 13:48:04 Notice: Notice (8): Undefined variable: output_country_name in [/home/hbku/www/app/View/Users/admin_index.ctp, line 119]
+Trace:
+include - APP/View/Users/admin_index.ctp, line 119
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 13:48:04 Notice: Notice (8): Undefined variable: output_ip in [/home/hbku/www/app/View/Users/admin_index.ctp, line 120]
+Trace:
+include - APP/View/Users/admin_index.ctp, line 120
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 13:48:18 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-01 13:51:57 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-01 14:03:55 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-01 14:04:42 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-01 14:08:04 Notice: Notice (8): Undefined variable: output_fname in [/home/hbku/www/app/View/Users/admin_index.ctp, line 116]
+Trace:
+include - APP/View/Users/admin_index.ctp, line 116
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 14:08:04 Notice: Notice (8): Undefined variable: output_lname in [/home/hbku/www/app/View/Users/admin_index.ctp, line 117]
+Trace:
+include - APP/View/Users/admin_index.ctp, line 117
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 14:08:04 Notice: Notice (8): Undefined variable: output_country_name in [/home/hbku/www/app/View/Users/admin_index.ctp, line 119]
+Trace:
+include - APP/View/Users/admin_index.ctp, line 119
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 14:08:04 Notice: Notice (8): Undefined variable: output_ip in [/home/hbku/www/app/View/Users/admin_index.ctp, line 120]
+Trace:
+include - APP/View/Users/admin_index.ctp, line 120
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 14:08:07 Notice: Notice (8): Undefined variable: required in [/home/hbku/www/app/View/Users/admin_add.ctp, line 51]
+Trace:
+include - APP/View/Users/admin_add.ctp, line 51
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 14:08:07 Notice: Notice (8): Undefined variable: dir in [/home/hbku/www/app/View/Users/admin_add.ctp, line 51]
+Trace:
+include - APP/View/Users/admin_add.ctp, line 51
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 14:08:17 Notice: Notice (8): Undefined variable: required in [/home/hbku/www/app/View/Users/admin_add.ctp, line 51]
+Trace:
+include - APP/View/Users/admin_add.ctp, line 51
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 14:08:17 Notice: Notice (8): Undefined variable: dir in [/home/hbku/www/app/View/Users/admin_add.ctp, line 51]
+Trace:
+include - APP/View/Users/admin_add.ctp, line 51
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 14:08:24 Notice: Notice (8): Undefined variable: country_list in [/home/hbku/www/app/View/Users/admin_edit.ctp, line 48]
+Trace:
+include - APP/View/Users/admin_edit.ctp, line 48
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 14:08:24 Notice: Notice (8): Undefined variable: month_array in [/home/hbku/www/app/View/Users/admin_edit.ctp, line 79]
+Trace:
+include - APP/View/Users/admin_edit.ctp, line 79
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 14:08:24 Notice: Notice (8): Undefined variable: daysArray in [/home/hbku/www/app/View/Users/admin_edit.ctp, line 84]
+Trace:
+include - APP/View/Users/admin_edit.ctp, line 84
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 14:08:24 Notice: Notice (8): Undefined variable: yearsArray in [/home/hbku/www/app/View/Users/admin_edit.ctp, line 88]
+Trace:
+include - APP/View/Users/admin_edit.ctp, line 88
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2014-10-01 14:11:06 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-01 16:16:57 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-01 16:17:06 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-01 16:17:35 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-01 16:17:58 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-01 16:56:28 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-01 16:56:39 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-01 16:56:45 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-01 16:58:47 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 15:06:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 15:06:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 15:06:28 Logins/102014/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2014-10-08 15:06:31 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 15:06:31 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-09 11:27:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-09 11:27:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-09 11:27:23 Logins/102014/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2014-10-09 11:27:25 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-09 11:27:25 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-10 12:41:32 Logins/102014/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2014-10-16 09:21:11 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-16 09:21:11 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-16 09:25:48 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-16 09:26:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-16 09:26:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-16 09:26:06 Logins/102014/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2014-10-16 09:38:34 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-21 10:45:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-21 10:45:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-21 10:45:09 Logins/102014/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2014-10-21 10:45:10 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-21 10:45:10 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-24 09:46:42 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-24 09:46:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-24 09:48:24 Logins/102014/logs: Login successfull using username: 'admin' from IP: 192.168.0.23
+2014-10-24 09:48:26 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-24 09:48:26 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-24 09:48:37 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

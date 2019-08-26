@@ -1,0 +1,48 @@
+2014-06-05 17:19:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-05 17:19:03 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-05 17:19:07 Logins/062014/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2014-06-05 17:19:08 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-05 17:19:08 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-09 09:46:49 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-09 09:46:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-09 09:46:52 Logins/062014/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2014-06-09 09:46:54 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-09 09:46:54 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-09 11:08:46 Logins/062014/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2014-06-10 11:46:35 Logins/062014/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2014-06-10 21:33:11 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-10 21:33:26 Logins/062014/logs: Login successfull using username: 'admin' from IP: 192.168.0.120
+2014-06-12 08:42:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-12 08:43:09 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-12 08:43:09 Logins/062014/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2014-06-12 08:43:11 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-12 08:43:11 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-12 14:24:08 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/hbku/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

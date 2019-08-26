@@ -1,0 +1,1 @@
+<?php echo $this->element('admin/media/video-edit',array('video'=>$video)); ?>

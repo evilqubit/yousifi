@@ -1,0 +1,68 @@
+2015-08-04 12:05:07 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-04 12:05:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-04 12:05:11 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-04 12:05:12 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-05 14:32:38 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-05 14:46:53 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-05 14:46:54 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-06 09:36:09 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-06 09:36:10 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-08 07:10:49 Warning: Warning (512): _cake_core_ cache was unable to write 'default_eng' to Apc cache in [/home/alyousifi/www/lib/Cake/Cache/Cache.php, line 309]
+Trace:
+Cache::write() - CORE/Cake/Cache/Cache.php, line 309
+I18n::translate() - CORE/Cake/I18n/I18n.php, line 169
+__ - CORE/Cake/basics.php, line 521
+include - APP/View/Pages/display.ctp, line 5
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-08-08 07:10:58 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-18 07:24:02 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-18 07:24:02 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-18 07:28:28 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-18 12:58:07 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-20 10:57:06 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-20 10:57:07 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-20 11:06:07 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-20 11:45:23 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

@@ -1,0 +1,1 @@
+<?php echo $this->element('admin/media/audio-edit',array('audio',$audio));?>

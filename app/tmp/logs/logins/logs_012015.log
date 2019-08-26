@@ -1,0 +1,796 @@
+2015-01-05 08:29:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-05 08:29:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-05 08:47:29 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-05 08:47:29 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-05 08:47:29 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-05 08:47:29 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-05 08:47:30 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-05 08:47:30 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:03:26 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:03:26 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:03:35 Logins/012015/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2015-01-06 14:03:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:03:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:03:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:03:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:03:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:16 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:16 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:16 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:16 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:16 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:16 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:16 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:17 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:17 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:17 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:17 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:17 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:17 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:17 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:17 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:17 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:17 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:17 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:23 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:35:23 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:43:44 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:43:44 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:23 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:23 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:24 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:49:25 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:10 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:10 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:10 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:10 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:10 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:10 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:10 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:10 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:10 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:10 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:10 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 14:50:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 16:15:29 Logins/012015/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2015-01-06 16:16:05 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Banner.color' in 'field list'
+#0 /home/lemall/www/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/lemall/www/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('SELECT `Banner`...', Array)
+#2 /home/lemall/www/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Banner`...', Array, Array)
+#3 /home/lemall/www/lib/Cake/Model/Datasource/DboSource.php(1080): DboSource->fetchAll('SELECT `Banner`...', false)
+#4 /home/lemall/www/lib/Cake/Model/Model.php(2637): DboSource->read(Object(Banner), Array)
+#5 /home/lemall/www/app/Model/Banner.php(102): Model->find('all', Array)
+#6 /home/lemall/www/app/Controller/PagesController.php(125): Banner->getHeaderCommunicationBannersWithLimit('home_big_banner', 1, 'eng')
+#7 [internal function]: PagesController->display()
+#8 /home/lemall/www/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#9 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#10 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#11 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-01-06 16:16:57 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Banner.color' in 'field list'
+#0 /home/lemall/www/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/lemall/www/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('SELECT `Banner`...', Array)
+#2 /home/lemall/www/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Banner`...', Array, Array)
+#3 /home/lemall/www/lib/Cake/Model/Datasource/DboSource.php(1080): DboSource->fetchAll('SELECT `Banner`...', false)
+#4 /home/lemall/www/lib/Cake/Model/Model.php(2637): DboSource->read(Object(Banner), Array)
+#5 /home/lemall/www/app/Model/Banner.php(102): Model->find('all', Array)
+#6 /home/lemall/www/app/Controller/PagesController.php(125): Banner->getHeaderCommunicationBannersWithLimit('home_big_banner', 1, 'eng')
+#7 [internal function]: PagesController->display()
+#8 /home/lemall/www/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#9 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#10 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#11 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-01-06 16:21:22 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Banner.color' in 'field list'
+#0 /home/lemall/www/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /home/lemall/www/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('SELECT `Banner`...', Array)
+#2 /home/lemall/www/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Banner`...', Array, Array)
+#3 /home/lemall/www/lib/Cake/Model/Datasource/DboSource.php(1080): DboSource->fetchAll('SELECT `Banner`...', false)
+#4 /home/lemall/www/lib/Cake/Model/Model.php(2637): DboSource->read(Object(Banner), Array)
+#5 /home/lemall/www/app/Model/Banner.php(102): Model->find('all', Array)
+#6 /home/lemall/www/app/Controller/PagesController.php(125): Banner->getHeaderCommunicationBannersWithLimit('home_big_banner', 1, 'eng')
+#7 [internal function]: PagesController->display()
+#8 /home/lemall/www/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#9 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#10 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#11 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-01-09 16:06:59 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-09 16:06:59 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-09 16:45:57 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-09 16:45:58 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 09:01:03 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 09:01:03 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 09:02:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 09:02:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 09:02:46 Logins/012015/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2015-01-16 09:02:47 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 09:02:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 09:02:49 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 09:02:49 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:19:50 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:19:50 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:19:50 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:19:50 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:19:50 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:19:51 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:19:51 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:19:54 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:19:54 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:19:54 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:19:54 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:19:54 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:19:54 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:03 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:03 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:03 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:22 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:22 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:22 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:22 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:22 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:22 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:41 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:41 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:41 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:41 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:41 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:41 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:47 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:47 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:47 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:47 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:47 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:47 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:57 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:57 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:20:57 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:21:00 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:21:00 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:21:00 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:21:00 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:21:00 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:21:04 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:21:04 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:21:04 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:21:04 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:21:04 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:27:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:27:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:27:15 Logins/012015/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2015-01-16 13:27:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:27:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:27:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-16 13:27:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-19 14:56:46 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-19 14:56:46 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-19 15:19:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-19 15:19:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-19 15:23:35 Logins/012015/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2015-01-19 15:23:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-19 15:23:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-19 15:23:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-19 15:23:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-21 16:38:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-21 16:38:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-21 16:38:16 Logins/012015/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2015-01-21 16:38:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-21 16:38:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-21 16:38:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-21 16:38:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-21 16:38:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-21 16:38:29 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-21 16:38:29 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-21 17:15:44 Logins/012015/logs: Login successfull using username: 'admin' from IP: 192.168.0.88
+2015-01-22 14:04:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-22 14:04:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 14:02:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 14:02:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 14:02:25 Logins/012015/logs: Login successfull using username: 'admin' from IP: 192.168.0.23
+2015-01-26 14:02:26 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 14:02:26 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 14:02:26 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 14:02:26 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 14:02:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 14:02:49 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 14:02:49 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 14:49:16 Logins/012015/logs: Login successfull using username: 'admin' from IP: 192.168.0.23
+2015-01-27 14:39:58 Error: [MissingControllerException] Controller class WebrootController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 14:40:07 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 14:40:07 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 14:40:07 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 14:40:07 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 14:40:07 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 14:40:11 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:11 Error: [MissingActionException] Action AppController::favicon.ico() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::favicon.ico() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:40:13 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 14:41:10 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 14:41:10 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 14:41:10 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 14:41:10 Error: [MissingControllerException] Controller class IconsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 14:42:32 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/lemall/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 16:33:14 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 16:33:14 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-28 09:12:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-28 09:12:54 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-28 09:12:58 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-28 09:13:25 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-28 10:40:29 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-28 10:40:37 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-28 10:40:57 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /home/lemall/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

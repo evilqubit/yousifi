@@ -1,0 +1,119 @@
+2015-10-05 08:18:11 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-05 08:18:28 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-05 08:18:29 Logins/102015/logs: Login successfull using username: 'admin' from IP: 62.215.168.222
+2015-10-05 08:19:26 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-05 08:19:29 Error: [Exception] GAPI: Failed to authenticate user. Error: "Error=BadAuthentication
+Url=https://www.google.com/accounts/ContinueSignIn?sarp=1&scc=1&plt=AKgnsbtfaZ1gIrSK0nLKvZo7VT-BUM_R-yM1vn4b6ZgIR4_noy0QA2H0-uWO8au65foqC8DPxjpecJwvrngdJxIDHsV45po_GuCT0Fyj1aAUbzrQxvgKk6aMDWxsjaHMUbb7wJovYKqrOrbriIxm0V--uMdUoqBx6T0grKTb4O2RYCk6rTiTmCJnX8ABt5fZdFLCvJqUqtugKLEqFZaIVyC-24JYgKhG4QX5Db3WPXUWgdlDImv_pLw
+Info=WebLoginRequired
+"
+#0 /home/alyousifi/www/app/Vendor/Analytics/gapi.php(62): gapi->authenticateUser('themall.ganalyt...', 'TheM4ll@G4')
+#1 /home/alyousifi/www/app/Controller/AdministratorsController.php(178): gapi->__construct('themall.ganalyt...', 'TheM4ll@G4')
+#2 [internal function]: AdministratorsController->admin_getstats()
+#3 /home/alyousifi/www/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(AdministratorsController), Array)
+#4 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#5 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AdministratorsController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2015-10-05 08:21:22 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-05 08:21:25 Error: [Exception] GAPI: Failed to authenticate user. Error: "Error=BadAuthentication
+Url=https://www.google.com/accounts/ContinueSignIn?sarp=1&scc=1&plt=AKgnsbt0rGoEOuvFZTqLEk5J-gjT9Iufo5xVdep59m7_fRAhHXoFx4wH1bYUnMVpsepnQe14qUq3kTuyJDkhrPIKJp_YJnWqVlp4yovtxI9mUsAZ-LRWft_bpr9qPvZpz_3Ix_uC_bNXit5K8Gke-VpygUoqa9gPtJRuGKWEJCTaq5Pd3yb8xxzrVIyMRiS96Pono810C_68WSAvuuaqsmF94u04eiYbkq8z_R-ycJtK_RwXmI8FezU
+Info=WebLoginRequired
+"
+#0 /home/alyousifi/www/app/Vendor/Analytics/gapi.php(62): gapi->authenticateUser('themall.ganalyt...', 'TheM4ll@G4')
+#1 /home/alyousifi/www/app/Controller/AdministratorsController.php(178): gapi->__construct('themall.ganalyt...', 'TheM4ll@G4')
+#2 [internal function]: AdministratorsController->admin_getstats()
+#3 /home/alyousifi/www/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(AdministratorsController), Array)
+#4 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#5 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AdministratorsController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2015-10-08 06:35:43 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-08 07:35:19 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-08 07:57:30 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-29 10:52:47 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-29 10:52:57 Logins/102015/logs: Login successfull using username: 'admin' from IP: 62.215.168.222
+2015-10-29 10:53:10 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-29 10:53:13 Error: [Exception] GAPI: Failed to authenticate user. Error: "https://developers.google.com/accounts/docs/AuthForInstalledApps
+"
+#0 /home/alyousifi/www/app/Vendor/Analytics/gapi.php(62): gapi->authenticateUser('themall.ganalyt...', 'TheM4ll@G4')
+#1 /home/alyousifi/www/app/Controller/AdministratorsController.php(178): gapi->__construct('themall.ganalyt...', 'TheM4ll@G4')
+#2 [internal function]: AdministratorsController->admin_getstats()
+#3 /home/alyousifi/www/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(AdministratorsController), Array)
+#4 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#5 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AdministratorsController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2015-10-29 10:54:11 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-29 10:54:46 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-29 10:55:47 Error: [MissingActionException] Action AdministratorsController::img() could not be found.
+#0 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AdministratorsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-29 10:55:54 Logins/102015/logs: Login successfull using username: 'admin' from IP: 62.215.168.222
+2015-10-29 10:56:12 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-29 10:56:14 Error: [Exception] GAPI: Failed to authenticate user. Error: "https://developers.google.com/accounts/docs/AuthForInstalledApps
+"
+#0 /home/alyousifi/www/app/Vendor/Analytics/gapi.php(62): gapi->authenticateUser('themall.ganalyt...', 'TheM4ll@G4')
+#1 /home/alyousifi/www/app/Controller/AdministratorsController.php(178): gapi->__construct('themall.ganalyt...', 'TheM4ll@G4')
+#2 [internal function]: AdministratorsController->admin_getstats()
+#3 /home/alyousifi/www/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(AdministratorsController), Array)
+#4 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#5 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AdministratorsController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2015-10-29 10:56:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-29 11:20:07 Error: [Exception] GAPI: Failed to authenticate user. Error: "https://developers.google.com/accounts/docs/AuthForInstalledApps
+"
+#0 /home/alyousifi/www/app/Vendor/Analytics/gapi.php(62): gapi->authenticateUser('themall.ganalyt...', 'TheM4ll@G4')
+#1 /home/alyousifi/www/app/Controller/AdministratorsController.php(178): gapi->__construct('themall.ganalyt...', 'TheM4ll@G4')
+#2 [internal function]: AdministratorsController->admin_getstats()
+#3 /home/alyousifi/www/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(AdministratorsController), Array)
+#4 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#5 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AdministratorsController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2015-10-29 11:38:41 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-29 12:10:05 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-29 12:11:11 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-29 13:32:30 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-31 13:06:21 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-31 13:06:21 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

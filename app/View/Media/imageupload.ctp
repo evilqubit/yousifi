@@ -1,0 +1,1 @@
+<?php echo $this->element('/admin/media/image-edit',array('image'=>$image, 'userFilesFolder'=>$userFilesFolder)); ?>

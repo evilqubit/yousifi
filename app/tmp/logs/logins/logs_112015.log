@@ -1,0 +1,644 @@
+2015-11-01 05:50:26 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-01 05:51:08 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-02 08:25:55 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-02 08:26:09 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-02 14:09:29 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-02 14:09:49 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-02 14:09:53 Logins/112015/logs: Login successfull using username: 'admin' from IP: 213.175.169.218
+2015-11-02 14:10:06 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-02 14:10:10 Error: [Exception] GAPI: Failed to authenticate user. Error: "https://developers.google.com/accounts/docs/AuthForInstalledApps
+"
+#0 /home/alyousifi/www/app/Vendor/Analytics/gapi.php(62): gapi->authenticateUser('themall.ganalyt...', 'TheM4ll@G4')
+#1 /home/alyousifi/www/app/Controller/AdministratorsController.php(178): gapi->__construct('themall.ganalyt...', 'TheM4ll@G4')
+#2 [internal function]: AdministratorsController->admin_getstats()
+#3 /home/alyousifi/www/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(AdministratorsController), Array)
+#4 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#5 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AdministratorsController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2015-11-05 09:02:02 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-05 09:54:26 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-08 11:57:38 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-09 10:09:09 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 08:18:49 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 08:19:35 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 08:37:56 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 08:43:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 09:27:23 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 09:27:34 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 15:30:51 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 15:31:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 15:31:38 Logins/112015/logs: Login successfull using username: 'admin' from IP: 213.175.169.218
+2015-11-10 15:31:47 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 15:31:50 Error: [Exception] GAPI: Failed to authenticate user. Error: "https://developers.google.com/accounts/docs/AuthForInstalledApps
+"
+#0 /home/alyousifi/www/app/Vendor/Analytics/gapi.php(62): gapi->authenticateUser('themall.ganalyt...', 'TheM4ll@G4')
+#1 /home/alyousifi/www/app/Controller/AdministratorsController.php(178): gapi->__construct('themall.ganalyt...', 'TheM4ll@G4')
+#2 [internal function]: AdministratorsController->admin_getstats()
+#3 /home/alyousifi/www/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(AdministratorsController), Array)
+#4 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#5 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AdministratorsController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2015-11-10 15:35:50 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:37:21 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:38:34 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:39:13 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:39:55 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:40:43 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:41:34 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:42:29 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:42:54 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:43:25 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:44:35 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:45:05 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:45:30 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:46:06 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:46:48 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:47:33 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:48:04 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:54:27 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:55:48 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-10 15:57:50 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-10 15:58:41 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-12 08:48:49 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-12 09:46:25 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-12 14:09:40 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-12 14:09:41 Error: [MissingControllerException] Controller class Apple-touch-icon-precomposed.pngController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-12 14:09:41 Error: [MissingControllerException] Controller class Apple-touch-icon-precomposed.pngController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-12 14:09:42 Error: [MissingControllerException] Controller class Apple-touch-icon.pngController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-12 14:09:42 Error: [MissingControllerException] Controller class Apple-touch-icon.pngController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-13 12:06:19 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-13 12:06:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-13 12:06:33 Logins/112015/logs: Login successfull using username: 'admin' from IP: 213.175.169.218
+2015-11-13 12:06:36 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-13 12:06:39 Error: [Exception] GAPI: Failed to authenticate user. Error: "https://developers.google.com/accounts/docs/AuthForInstalledApps
+"
+#0 /home/alyousifi/www/app/Vendor/Analytics/gapi.php(62): gapi->authenticateUser('themall.ganalyt...', 'TheM4ll@G4')
+#1 /home/alyousifi/www/app/Controller/AdministratorsController.php(178): gapi->__construct('themall.ganalyt...', 'TheM4ll@G4')
+#2 [internal function]: AdministratorsController->admin_getstats()
+#3 /home/alyousifi/www/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(AdministratorsController), Array)
+#4 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#5 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AdministratorsController), Object(CakeRequest), Object(CakeResponse))
+#6 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2015-11-13 12:08:13 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 12:09:15 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 12:11:59 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 12:12:53 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 12:13:29 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 12:14:55 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 13:15:47 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 13:16:51 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 13:26:06 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 13:27:43 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 13:29:01 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 13:30:02 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 13:32:50 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 13:34:47 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 13:37:04 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 13:37:54 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 13:51:10 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 14:00:31 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 14:02:24 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 14:03:03 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_add_2.ctp, line 128]
+Trace:
+include - APP/View/DynamicPages/admin_add_2.ctp, line 128
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-13 14:04:00 Notice: Notice (8): Undefined variable: dynamic_pages_types in [/home/alyousifi/www/app/View/DynamicPages/admin_edit_2.ctp, line 160]
+Trace:
+include - APP/View/DynamicPages/admin_edit_2.ctp, line 160
+View::_evaluate() - CORE/Cake/View/View.php, line 923
+View::_render() - CORE/Cake/View/View.php, line 886
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2015-11-15 10:12:30 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-15 10:12:37 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-15 10:21:18 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 07:26:05 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 07:26:07 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 07:29:28 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 07:37:45 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 07:42:19 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 07:42:57 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 07:48:21 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 08:14:13 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 08:55:47 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 08:58:04 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 08:58:14 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 09:00:05 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 09:00:19 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 09:00:34 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 09:00:39 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 09:01:14 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 09:01:38 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 09:01:41 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-16 12:49:51 Error: [MissingControllerException] Controller class FilesController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-23 17:47:27 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-26 08:57:42 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-30 10:56:34 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

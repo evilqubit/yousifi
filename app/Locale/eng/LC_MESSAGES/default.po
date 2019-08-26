@@ -1,0 +1,682 @@
+msgid "pageTitle"
+msgstr "Yousifi"
+
+msgid "align"
+msgstr "left"
+ 
+msgid "opp_lang"
+msgstr "ar"
+
+msgid "change_lang"
+msgstr "ar"
+
+msgid "no_data"
+msgstr "no data found at this time. please try later"
+
+msgid "This field is required"
+msgstr "This field is required"
+
+msgid "contact_thank_u"
+msgstr "Dear Sender, <br/><br/>Thank you for contacting Alyousifi. This is a confirmation that your enquiry has been received. We will be responding to you in due course.<br /><br /><br />**This message is an auto response e-mail, no reply is necessary**<br /><br />"
+
+
+
+msgid "job_thank_u"
+msgstr "Dear Applicant,<br/><br/>Thank you for giving us the opportunity to review your qualifications regarding employment possibilities.<br/><br/>We are currently evaluating the qualifications of all applicants. After a careful review of our staffing requirements, the most qualified candidates will be contacted to determine their interest and availability.<br/><br/>Again, we appreciate your interest in employment opportunities with our company.<br/><br/>We wish you success in your future career endeavors.<br/><br/>**This message is an auto response e-mail, no reply is necessary**<br/><br/>Human Resources<br/><br/>"
+
+
+
+
+msgid "invalid_file_type"
+msgstr "Invalid file type"
+
+
+
+msgid "arabic"
+msgstr "&#1593;&#1585;&#1576;&#1610;"
+
+
+msgid "other_lang"
+msgstr "&#1593;&#1585;&#1576;&#1610;"
+
+msgid "fill_all_fields"
+msgstr "Please fill all required fields"
+
+msgid "required_fields"
+msgstr "Please fill all required fields"
+
+
+
+msgid "duplicate_emails"
+msgstr "The email entered is already registered"
+
+msgid "password_changed_by_admin"
+msgstr "Password changed by the administrator"
+
+msgid "duplicate_fb_emails"
+msgstr "The email entered is already registered"
+
+msgid "incorrect_pwds"
+msgstr "The password and its confirmation do not match"
+
+msgid "confirm_registration_email"
+msgstr "Confirm you registration"
+
+msgid "registration_successful"
+msgstr "You have successfully completed your registration"
+
+msgid "invalid_request"
+msgstr "Invalid Request"
+
+msgid "thank_you_for_registering"
+msgstr "Thank you for registering"
+
+msgid "account_confirmed"
+msgstr "Your account is now confirmed and active"
+
+msgid "account_already_confirmed"
+msgstr "Your account is already confirmed"
+
+msgid "wrong_username_password"
+msgstr "Incorrect Username/Password"
+
+msgid "account_not_confirmed"
+msgstr "Your account is not confirmed. Please check your inbox for the confirmation email."
+
+msgid "account_not_active"
+msgstr "Your account is not active. Please contact the website's administrator."
+
+msgid "successfull_logout"
+msgstr "You have logged out successfully"
+
+msgid "flash_msg_pwd_changed"
+msgstr "Your password has been changed successfully"
+
+msgid "forgot_pwd"
+msgstr "Forgot your password"
+
+msgid "check_inbox_newsletter"
+msgstr "Thank you for subscribing to our newsletter. Please check your email to confirm your subscription"
+
+msgid "email_exists"
+msgstr "Your email is already registered in our newsletter"
+
+msgid "newsletter_msg_0"
+msgstr "Your registration information was accepted. A confirmation code has been sent to your email."
+
+msgid "newsletter_msg_1"
+msgstr "Invalid email address"
+
+msgid "newsletter_msg_2"
+msgstr "The email entered already exists"
+
+msgid "newsletter_msg_3"
+msgstr "No data was entered"
+
+msgid "newsletter_msg_4"
+msgstr "Please select either subscribe or unsubscribe before submitting"
+
+msgid "newsletter_msg_5"
+msgstr "Invalid request"
+
+msgid "newsletter_msg_6"
+msgstr ""
+
+msgid "newsletter_msg_7"
+msgstr "You will shortly receive an email to confirm your unsubscription"
+
+msgid "newsletter_msg_8"
+msgstr "You have successfully unsubscribed"
+
+msgid "newsletter_msg_9"
+msgstr "The code your entered is incorrect"
+
+msgid "newsletter_msg_10"
+msgstr "You have registered to our newsletter successfully"
+
+msgid "newsletter_msg_11"
+msgstr "The code you have entered is incorrect"
+
+msgid "register"
+msgstr "Register"
+
+msgid "fname"
+msgstr "First Name"
+
+msgid "lname"
+msgstr "Last Name"
+
+msgid "email"
+msgstr "Email"
+
+msgid "pwd"
+msgstr "Password"
+
+msgid "conf_pwd"
+msgstr "Confirm Password"
+
+msgid "country"
+msgstr "Country"
+
+msgid "choose_country"
+msgstr "choose country"
+
+msgid "register_submit"
+msgstr "register"
+
+msgid "phone"
+msgstr "Phone"
+
+msgid "greetings"
+msgstr "Hello"
+
+msgid "registration_text"
+msgstr "Thank you for registering at "
+
+msgid "click_to_confirm"
+msgstr "To confirm your registration please click on the below link"
+
+msgid "paste_in_browser"
+msgstr "If the above link doesn't work, please copy & paste it into your browser."
+
+msgid "copy_paste_in_browser"
+msgstr "Please copy & paste the below link into your browser"
+
+msgid "email_signature"
+msgstr "Al- Yousifi,"
+
+msgid "welcome"
+msgstr "WELCOME"
+
+msgid "logout"
+msgstr "LOGOUT"
+
+msgid "login"
+msgstr "Login"
+
+msgid "profile_edited"
+msgstr "Profile edited successfully"
+
+msgid "edit_profile"
+msgstr "Edit Profile"
+
+msgid "save"
+msgstr "save"
+
+msgid "change_pwd"
+msgstr "Change Password"
+
+msgid "old_pwd"
+msgstr "Old Password"
+
+msgid "new_pwd"
+msgstr "New Password"
+
+msgid "short_password"
+msgstr "The password should contain at least 6 characters"
+
+msgid "passwords_not_match"
+msgstr "The Password and its confirmation do not match"
+
+msgid "incorrect_old_password"
+msgstr "Incorrect Old Password"
+
+msgid "password_changed_successfully"
+msgstr "Your password has been changed successfully"
+
+msgid "only_1_video"
+msgstr "You are not allowed to upload more than 1 concept."
+
+msgid "upload_video"
+msgstr "Upload Concept"
+
+msgid "upload_video_label"
+msgstr "Upload Video"
+
+msgid "please_login"
+msgstr "Please login before proceeding"
+
+msgid "title"
+msgstr "title"
+
+msgid "upload_successfull"
+msgstr "Your video has been uploaded to Itivi contest.<br/>You will receive an email once your video is approved."
+
+msgid "upload_successfull_msg"
+msgstr "This is the message that should appear"
+
+msgid "how_to"
+msgstr "HOW TO JOIN"
+
+msgid "newsletter"
+msgstr "NEWSLETTER"
+
+msgid "contest_rules"
+msgstr "CONTEST RULES"
+
+msgid "facebook"
+msgstr "facebook"
+
+msgid "News_Events"
+msgstr "News & Events"
+
+
+
+msgid "twitter"
+msgstr "twitter"
+
+msgid "youtube"
+msgstr "youtube"
+
+msgid "login_using_itivi"
+msgstr "Login using itivi account"
+
+msgid "not_member"
+msgstr "Not a member? Click here to register"
+
+msgid "forgot_pwd"
+msgstr "Forgot your password?"
+
+msgid "birthday"
+msgstr "BIRTHDAY"
+
+msgid "month"
+msgstr "MONTH"
+
+msgid "day"
+msgstr "DAY"
+
+msgid "year"
+msgstr "YEAR"
+
+msgid "male"
+msgstr "MALE"
+
+msgid "female"
+msgstr "FEMALE"
+
+msgid "login_info"
+msgstr "&nbsp;"
+
+msgid "visual_code"
+msgstr "Invalid Visual Code"
+
+msgid "incorrect_code"
+msgstr "Incorrect visual code"
+
+msgid "agreed_terms"
+msgstr "I have read and agreed to these terms and conditions"
+
+msgid "upload"
+msgstr "UPLOAD"
+
+msgid "add_title"
+msgstr "ADD TITLE"
+
+msgid "add_desc"
+msgstr "ADD DESCRIPTION"
+
+msgid "how_to_join"
+msgstr "HOW TO JOIN"
+
+msgid "next_link"
+msgstr "NEXT"
+
+msgid "prev_link"
+msgstr "PREVIOUS"
+
+msgid "email_sent"
+msgstr "Thank you for Applying, Your CV has been sent successfully"
+
+msgid "contact_email_sent"
+msgstr "Thank you for contacting us , your email has been sent successfully  "
+
+
+msgid "valid_email"
+msgstr "Enter a valid email"
+
+
+msgid "about_us"
+msgstr "about us"
+
+msgid "services"
+msgstr "services"
+
+
+msgid "store_locator"
+msgstr "store locator"
+
+
+msgid "how_to_get_here"
+msgstr "how to get here"
+
+
+msgid "search_val"
+msgstr "Type your keyword"
+
+msgid "search"
+msgstr "search"
+
+
+msgid "store_search_val"
+msgstr "Search for your store"
+
+msgid "browse"
+msgstr "Browse"
+
+msgid "all"
+msgstr "ALL"
+
+msgid "name"
+msgstr "NAME"
+
+msgid "email"
+msgstr "EMAIL"
+
+msgid "newsletterFirstTitle"
+msgstr "Sign up to get"
+
+msgid "newsletterSecondTitle"
+msgstr "latest updates"
+
+msgid "subscribe"
+msgstr "subscribe"
+
+msgid "privacy_policy"
+msgstr "privacy policy"
+
+msgid "terms_conditions"
+msgstr "terms & conditions"
+
+msgid "sitemap"
+msgstr "sitemap"
+
+msgid "contact_us"
+msgstr "contact us"
+
+
+msgid "copyRight"
+msgstr "Abraj Real Estate Development Holding Co.. All rights reserved."
+
+
+msgid "overview"
+msgstr "Overview"
+
+
+msgid "opening_hours"
+msgstr "Opening Hours"
+
+
+msgid "media_center"
+msgstr "Media Center"
+
+
+msgid "careers"
+msgstr "Careers"
+
+msgid "read_more"
+msgstr "Read more"
+
+msgid "download"
+msgstr "Download pdf file"
+
+msgid "first"
+msgstr "First"
+
+msgid "last"
+msgstr "Last"
+
+msgid "next_page"
+msgstr "Next Page >>"
+
+msgid "prev_page"
+msgstr "<< Previous page"
+
+msgid "back"
+msgstr "Back"
+
+
+msgid "related_video"
+msgstr "Related video"
+
+
+msgid "career_form_title"
+msgstr "Please fill the form below:"
+
+
+msgid "full_name"
+msgstr "Full Name"
+
+msgid "email"
+msgstr "Email"
+
+msgid "telephone"
+msgstr "Telephone"
+
+msgid "nationality"
+msgstr "Nationality"
+
+
+msgid "gender"
+msgstr "Gender"
+
+msgid "country_of_residence"
+msgstr "Country of Residence"
+
+msgid "address"
+msgstr "Address"
+
+msgid "dob"
+msgstr "Date of Birth"
+
+msgid "position_best_describes_your_experience"
+msgstr "Position best describes your experience"
+
+msgid "total_years_of_experience"
+msgstr "Total years of Experience"
+
+msgid "retal_fashion_experience"
+msgstr "Retail/Fashion Experience"
+
+
+msgid "upload_cv"
+msgstr "Upload Your CV"
+
+msgid "upload_recent_photo"
+msgstr "Upload Recent Photo"
+
+msgid "upload_passport_copy"
+msgstr "Upload Passport Copy"
+
+msgid "upload_portfolio_supporting_docs"
+msgstr "Upload Portfolio/Supporting Docs"
+
+msgid "submit"
+msgstr "Submit"
+
+msgid "career_form_title"
+msgstr "Please fill the form below:"
+
+msgid "Job_vacancies"
+msgstr "Job vacancies:"
+
+
+msgid "Loading_content"
+msgstr "Loading content"
+
+msgid "articles"
+msgstr "News"
+
+msgid "videos"
+msgstr "Videos"
+
+msgid "shop_details"
+msgstr "Shop details"
+
+
+msgid "located_here"
+msgstr "We are located here"
+
+
+msgid "contact_form_title"
+msgstr "Contact us in direct"
+
+
+msgid "inquiry"
+msgstr "Nature of inquiry"
+
+msgid "subject"
+msgstr "Subject"
+
+msgid "name"
+msgstr "Name"
+
+msgid "email"
+msgstr "Email"
+
+msgid "company"
+msgstr "Company"
+
+msgid "career_telephone"
+msgstr "Telephone"
+
+msgid "message"
+msgstr "Message/Comment"
+
+
+msgid "search_result"
+msgstr "Search result for"
+
+msgid "no_data"
+msgstr "No results were found."
+
+
+msgid "contact_info"
+msgstr "Contact info"
+
+
+
+msgid "location"
+msgstr "Location"
+
+msgid "visit_us"
+msgstr "Visit us"
+
+
+
+
+msgid "invalid_cv"
+msgstr "Please enter a valid PDF/DOC in CV field"
+
+msgid "invalid_passport"
+msgstr "Please enter a valid PNG/JPEG in Recent photo field"
+
+msgid "invalid_passport"
+msgstr "Please enter a valid PNG/JPEG in passport copy field"
+
+msgid "invalid_portfolio"
+msgstr "Please enter a valid PDF/DOC in portfolio field"
+
+msgid "no_events"
+msgstr "There are no events during this month"
+
+msgid "Upload_your_CV"
+msgstr "Upload your CV"
+
+msgid "Vacancies"
+msgstr "Vacancies"
+
+
+msgid "career_note"
+msgstr "“To apply to this vacancy, please send your CV, Portfolio, Covering Letter, Recent Photo and Passport Copy to: "
+
+msgid "no_vacancies"
+msgstr "Currently we don’t have any vacancies. Please check again later."
+
+msgid "t"
+msgstr "T"
+
+
+msgid "phone_note"
+msgstr "Pleas add the country code in this format: “+9611111111111”"
+
+
+msgid "home"
+msgstr "home"
+
+
+msgid "about_us"
+msgstr "About Us"
+
+
+msgid "our_businees"
+msgstr "Our business"
+
+
+msgid "our_brands"
+msgstr "our brands"
+
+
+msgid "news_events"
+msgstr "news & events"
+
+
+msgid "careers"
+msgstr "careers"
+
+
+msgid "contact_us"
+msgstr "contact us"
+
+msgid "shop_online"
+msgstr "shop Online"
+
+
+
+
+
+
+
+msgid "check_inbox_newsletter"
+msgstr "Thank you for subscribing to our newsletter. Please check your email to confirm your subscription"
+
+msgid "email_exists"
+msgstr "Your email is already registered in our newsletter"
+
+msgid "newsletter_msg_0"
+msgstr "Your registration information was accepted. A confirmation code has been sent to your email."
+
+msgid "newsletter_msg_1"
+msgstr "Invalid email address"
+
+msgid "newsletter_msg_2"
+msgstr "The email entered already exists"
+
+msgid "newsletter_msg_3"
+msgstr "No data was entered"
+
+msgid "newsletter_msg_4"
+msgstr "Please select either subscribe or unsubscribe before submitting"
+
+msgid "newsletter_msg_5"
+msgstr "Invalid request"
+
+msgid "newsletter_msg_6"
+msgstr ""
+
+msgid "newsletter_msg_7"
+msgstr "You will shortly receive an email to confirm your unsubscription"
+
+msgid "newsletter_msg_8"
+msgstr "You have successfully unsubscribed"
+
+msgid "newsletter_msg_9"
+msgstr "The code your entered is incorrect"
+
+msgid "newsletter_msg_10"
+msgstr "You have registered to our newsletter successfully"
+
+msgid "newsletter_msg_11"
+msgstr "The code you have entered is incorrect"
+
+

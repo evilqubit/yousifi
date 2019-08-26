@@ -1,0 +1,812 @@
+@font-face {
+	font-family: "Lato-Bold"; 
+	src: url("/css/fonts/Lato-Bold.ttf"); 
+}
+
+.clear_btn{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	background-color: #b6d1f2;
+	color: #000000;
+	font-size: 12px;
+	border: 0px;
+	width: 130px;
+	height: 7px;
+	line-height: 7px;
+	cursor: pointer;
+	float: left;
+	/*margin-left: 3px;*/
+	padding: 5px;
+}
+
+
+.input-xlarge {
+	width: 270px !important;
+}
+
+
+
+
+
+
+
+
+
+
+ /*   dashboard css 	//////////////////////////*/
+
+
+.trackRow{
+	width: 900px;
+	height: auto;
+	margin-bottom: 5px;
+	margin-left: 50px;
+	
+}
+
+.trackMainContainer{
+	width: 900px;
+	height: auto;
+	background-color: #E2E2E2;
+	display: none;
+	margin-top: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.course_delete_ajax{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	right: 0px;
+	display: none;
+}
+.course_track_ajax{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	right: 0px;
+	top:-6px;
+	display: none;
+}
+
+.courseListContainer {
+	width: 400px;
+	height: 200px;
+	overflow-y: scroll;
+	clear: both;
+	border: 2px solid #000000;
+	color: #000000;
+	display: none;
+}
+
+
+.parentCatContainer{
+	width: 800px;
+	height: auto;
+	margin-bottom: 20px;
+	font-family: Arial;
+	background-color: #f5f5f5;
+	font-size:16px;
+	padding: 10px;
+	float: left;
+	clear: left;
+}
+
+.admin_comment_container{
+	width: 1000px;
+	height: auto;
+	margin-bottom: 10px;
+	padding-bottom:3px;
+	border-bottom: 1px solid #AAAAAA;
+}
+.userNameRow{
+	width: 980px;
+	height: auto;
+	font-family: Arial;
+	background-color: #f5f5f5;
+	font-size:16px;
+	padding: 10px;
+	
+	margin-bottom: 3px;
+}
+
+.admin_comment_text{
+	width: 1000px;
+	height: auto;
+	font-family: Arial;
+	color:#000000;
+	font-size:16px;
+	padding: 10px;
+}
+.userCommenttextContainer{
+	width: 1000px;
+	height: 200px;
+	clear: both;
+}
+.userCommenttextMainContainer{
+	width: 1000px;
+	height: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.addCommentBtn{
+	width: 1000px;
+	height: auto;
+}
+
+#related_comments_div{
+	/*display: none;*/
+}
+.commentMsg{
+	width: 980px;
+	height: auto;
+	
+	margin-top: 5px;
+	background-color: #E2E2E2;
+	padding: 5px;
+	font-family: Arial;
+	color: #333333;
+	font-size: 15px;
+	display: none;
+	margin-bottom: 5px;
+}
+.addUrOwnComment{
+	width: 1000px;
+	height: auto;
+	font-family: Arial;
+	color: #A5206C;
+	font-size: 16px;
+	margin-bottom: 5px;
+}
+
+.programRelationQueueText{
+	width: 800px;
+	height: auto;
+	clear: both;
+	margin-bottom: 15px;
+	margin-top: 10px;
+	font-family:Arial;
+	font-size: 17px;
+	float: left;
+}
+
+.resultMainContent{
+	width: 800px;
+	clear: both;
+	margin-bottom: 5px;
+}
+.resultTitle{
+	float: left;
+	font-family: Arial;
+	font-size: 16px;
+	color: #000000;
+	font-weight: bold;
+}
+.resultTitleText{
+	float: left;
+	font-family: Arial;
+	font-size: 14px;
+	color: #000000;
+}
+
+
+.important_short_cuts{
+	width: 498px;
+	height: auto;
+	float: left;
+	
+	
+}
+
+.dashboardHeaderContainerGoogle{
+	width: 1020px;
+	height: 50px;	
+	background-color: #1195d3;
+	
+}
+.dashboardHeaderContainerSocial{
+	width: 1040px;
+	height: 50px;	
+	background-color: #1195d3;
+	
+}
+.dashboardHeaderContainerLinks{
+	width: 1020px;
+	height: 50px;	
+	background-color: #1195d3;
+	
+}
+.dashboard_google{
+	width: 1020px;
+	height: auto;
+	float: left;
+	margin-top: 20px;
+	clear: both;
+	
+	
+}
+.dashboard_Links{
+	width: 1020px;
+	height: auto;
+	float: left;
+	margin-top: 20px;
+	clear: both;
+	
+}
+.dashboard_social{
+	width: 1040px;
+	height: 600px;
+	
+	clear:both;
+	margin-top: 20px;
+	
+	
+}
+.pendding_tasks{
+	/*width: 700px;*/
+	width: 498px;
+	height: auto;
+	float: left;
+	margin-right: 20px;
+	
+	
+}
+.penddingTaskHeaderLinks{
+	width: 700px;
+	height: 50px;
+	font-family: Arial;
+	color: #ffffff;
+	text-align: center;
+	line-height: 50px;
+	font-size: 17px;
+	background-color: #A5206C;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+.dashboardHeaderContainer{
+	width: 498px;
+	height: 50px;	
+	background-color: #1195d3;
+	
+}
+.dashboardHeaderContainerPendingTasks{
+	/*width: 700px;*/
+	width: 498px;
+	height: 50px;	
+	background-color: #1195d3;
+	
+}
+.dashboardHeaderIconCommonLink{
+	width: 50px;	
+	height:50px;
+	background:url(dashboard.png)  -73px -36px  no-repeat;
+	float: left;
+}
+.dashboardHeaderIconLinks{
+	width: 50px;	
+	height:50px;
+	background:url(dashboard.png)  -299px -36px  no-repeat;
+	float: left;
+}
+.dashboardHeaderIconSocial{
+	width: 50px;	
+	height:50px;
+	background:url(dashboard.png)  -366px -36px  no-repeat;
+	float: left;
+}
+.dashboardHeaderIconGoogle{
+	width: 50px;	
+	height:50px;
+	background:url(dashboard.png)  -227px -36px  no-repeat;
+	float: left;
+}
+.dashboardHeaderIconPendingTasks{
+	width: 50px;	
+	height:50px;
+	background:url(dashboard.png)  -151px -36px  no-repeat;
+	float: left;
+}
+.dashboardHeaderTextCommonLink{
+	width: 235px;
+	height: 50px;
+	padding-left:15px;
+	font-family: "Lato-Bold";
+	color: #ffffff;
+	
+	line-height: 50px;
+	font-size: 15px;
+	
+	margin-bottom: 10px;
+	
+	float: left;
+}
+.dashboardHeaderTextGoogle{
+	width: 855px;
+	height: 50px;
+	padding-left:15px;
+	font-family: "Lato-Bold";
+	color: #ffffff;
+	
+	line-height: 50px;
+	font-size: 15px;
+	
+	margin-bottom: 10px;
+	
+	float: left;
+}
+.dashboardHeaderTextLinks{
+	width: 855px;
+	height: 50px;
+	padding-left:15px;
+	font-family: "Lato-Bold";
+	color: #ffffff;
+	
+	line-height: 50px;
+	font-size: 17px;
+	
+	margin-bottom: 10px;
+	
+	float: left;
+}
+
+.dashboardHeaderTextSocial{
+	width: 855px;
+	height: 50px;
+	padding-left:15px;
+	font-family: "Lato-Bold";
+	color: #ffffff;
+	
+	line-height: 50px;
+	font-size: 15px;
+	
+	margin-bottom: 10px;
+	
+	float: left;
+}
+
+.dashboardPendingTaskSeeAll{
+	width: 85px;
+	height: 50px;
+	float: right;
+}
+.dashboardPendingTaskSeeAll a{
+	
+	
+	font-family: Arial;
+	color: #ffffff;
+	
+	line-height: 50px;
+	font-size: 17px;
+	
+	
+	font-weight: bold;
+	
+}
+.dashboardHeaderTextPendingTasks{
+	width: 430px;
+	height: 50px;
+	padding-left:15px;
+	font-family: "Lato-Bold";
+	color: #ffffff;
+	
+	line-height: 50px;
+	font-size: 15px;
+	
+	margin-bottom: 10px;
+	
+	float: left;
+}
+
+.commonLinkContainer{
+	width: 498px;
+	height: 235px;
+	overflow: auto;
+	margin-bottom: 10px;
+	border: 1px solid #dae1e5;
+}
+
+.GoogleMainContainer{
+	width: 998px;
+	height: auto;
+	overflow: auto;
+	margin-bottom: 10px;
+	border: 1px solid #dae1e5;
+	padding: 10px
+}
+
+.LinksMainContainer{
+	width: 998px;
+	
+	overflow: auto;
+	margin-bottom: 10px;
+	border: 1px solid #dae1e5;
+	padding: 10px
+}
+
+.SocialMainContainer{
+	width: 1018px;
+	/*height: 850px;*/
+	overflow: auto;
+	margin-bottom: 10px;
+	border: 1px solid #dae1e5;
+	padding: 10px
+}
+.penddingTaskContainer{
+	width: 496px;
+	height: 235px;
+	overflow: auto;
+	margin-bottom: 10px;
+	border: 1px solid #DAE1E5;
+}
+.commonLinkTitle{
+	width: 480px;
+	height: auto;
+	padding-top: 10px;
+	border-bottom: 1px solid #b8bfc3;
+	padding-bottom: 10px;
+	
+}
+.pendingTaskConatinerTitle{
+	width: 480px;
+	height: auto;
+	padding-top: 10px;
+	border-bottom: 1px solid #b8bfc3;
+	padding-bottom: 10px;
+	float: left;
+}
+.TaskTitleContainer{
+	width: 370px;
+	height: auto;
+	padding-left: 10px;
+	float: left;
+	font-family: Arial;
+	font-size: 12px;
+	color: #4e5051;
+	
+}
+.TaskTitleContainer a{
+	font-family: Arial;
+	font-size: 12px;
+	color: #4e5051;
+	text-decoration: none;
+	border: none;
+	
+}
+.TaskTitleContainer a:hover{
+	color: #1195d3;
+}
+.pendingTaskAction{
+	width: 100px;
+	float: left;
+}
+.readMoreTask{
+	width: 680px;
+	height: auto;
+	
+}
+.readMoreTask a{ 
+	width: 680px;
+	height: auto;
+	text-align: center;
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: bold;
+	display: block;
+	
+}
+.commonLinkTitle a{
+	width: 280px;
+	display:block;
+	font-family:Arial;
+	font-size: 15px;
+	color: #4e5051;
+	text-decoration: none;
+	border: none;
+	outline: none;
+	padding-left: 10px;
+}
+
+.commonLinkTitle a:hover{
+	color: #1195d3;
+}
+
+.dashBosrdEdit{
+	width: 16px;	
+	height:18px;
+	background:url(dashboard.png)  -135px -181px  no-repeat;
+	float: left;
+	cursor: pointer;
+	margin-left: 5px;
+}
+.dashBosrdGreenlight{
+	width: 19px;	
+	height:18px;
+	background:url(dashboard.png)  -161px -181px  no-repeat;
+	float: left;
+	cursor: pointer;
+	margin-left: 5px;
+}
+
+.dashBosrdRedlight{
+	width: 19px;	
+	height:19px;
+	background:url(dashboard.png)  -187px -181px  no-repeat;
+	float: left;
+	cursor: pointer;
+	margin-left: 5px;
+}
+
+.googleWeeklyResault{
+	width: 260px;
+	height: auto;
+	
+	/*padding: 10px;*/
+	margin-left:10px;
+	float: left;
+	margin-top: 80px;
+}
+.googleAnaylticMainContainer{
+	width: 998px;
+	height: auto;
+	
+}
+.googleTitle{
+	width: auto;
+	height: auto;
+	font-family: Arial;
+	font-size: 18px;
+	color: #C1014D;
+	margin-right: 20px;
+	float: left;
+	margin-bottom: 20px;
+}
+.googleVisitText{
+	font-family: Arial;
+	font-size: 16px;
+	/*font-weight:bold;*/
+	color: #4E5051;
+	margin-right: 20px;
+	float:left;
+	width: 150px;
+	margin-bottom: 20px
+}
+.googleAnaylticsLink{
+	width: 300px;
+	height: auto;
+	float: left;
+}
+.value{
+	font-family: Arial;
+	font-size: 16px;
+	color: #ef5520;
+	margin-left: 10px;
+	font-weight: bold;
+}
+
+
+.linksChart{
+	width: 600px;
+	height: auto;
+	float: left;
+}
+.linksChartFormContainer{
+	width: 280px;
+	height: auto;
+	float: left;
+	margin-top: 120px;
+	
+}
+
+.linksChardColorDefinition{
+	width: 450px;
+	height: auto;
+	margin-top: 10px;
+	margin: 0 auto;
+}
+.linksChardColorDefinitionContainer{
+	width: 200px;
+	height: auto;
+	float: left;
+	margin-right: 20px;
+}
+.highestLinkColor{
+	width: 10px;
+	height: 10px;
+	background-color:#A5206C;
+	margin-right: 20px;
+	float: left;
+	margin-top: 5px;
+	
+}
+
+.lowestLinkColor{
+	width: 10px;
+	height: 10px;
+	background-color:#a5bd2f;
+	margin-right: 20px;
+	float: left;
+	margin-top: 5px;
+}
+.linksRateText{
+	width: auto;
+	height: auto;
+	font-family: Arial;
+	color: #4E5051;
+	font-size: 16px;
+	float: left;
+}
+
+
+.internal_row{
+	width: 167px;
+	height: auto;
+	margin-bottom: 10px;
+	position: relative;
+}
+.internal_label{
+	width: 167px;
+	height: auto;
+	font-family: "Lato-Bold";
+	font-size: 15px;
+	color: #4d4f50;
+}
+
+.linkRefreshBtn{
+	width: 168px;
+	height: 30px;
+	
+	background:url(dashboard.png)  -71px -128px  no-repeat;
+	float: left;
+	cursor: pointer;
+	clear: both;
+}
+.internal_input{
+	width: 164px;
+	height: 24px;
+	border: 1px solid #DAE1E5;
+	background: transparent;
+	position: relative;
+	z-index: 2;
+	
+}
+
+.calendarIcon{
+	width: 16px;
+	height: 16px;
+	right:5px;
+	top:25px;
+	background:url(dashboard.png)  -74px -180px  no-repeat;
+	position: absolute;
+	z-index: 1;
+}
+
+.dashboardFbContainer{
+	width: 499px;
+	height: auto;
+	float: left;
+}
+.dashboardTwContainer{
+	width: 499px;
+	height: auto;
+	float: left;
+	margin-left: 18px;
+}
+
+.dashboardMainContainer{
+	width: 1040px;
+	height: auto;
+}
+
+/*.box-content{
+	width: 650px;
+	height: 300px;
+	float: left;
+}*/
+.maintitle {
+	width: 100%;
+	font-family: Arial;
+	color: #000000;
+	font-size: 18px;
+}
+
+.ui-sortable tr td {
+	text-align: left !important;
+	padding-left: 5px;
+}
+
+
+
+.addNumberBtn {
+	background-color: #b6d1f2;
+    border: 1px solid;
+    clear: both;
+    cursor: pointer;
+    margin-left: 60px;
+    margin-top: 5px;
+    padding: 5px;
+    width: 160px;
+}
+
+
+
+
+.ApproveButtonLabel.ui-state-active { background: #15b74e; }
+.ApproveButtonLabel.ui-state-active span.ui-button-text { color: #ffffff; }
+
+.RejectButtonLabel.ui-state-active { background: #fb3838; }
+.RejectButtonLabel.ui-state-active span.ui-button-text { color: #ffffff; }
+
+
+
+
+
+
+
+
+.tableHeaderContainer {
+	width: 1105px; 
+	background-color: #efefef ; 
+	padding: 10px; 
+	height: 20px;
+}
+.table_headerRow {
+	font-family: Arial; color:#3e4349;  font-size: 16px; float: left;
+}
+
+.table2sort {
+	background-color:#ffffff; width: 98%;  clear: both;
+}
+.rowContainer {
+	border-left:1px solid  #b6d1f2!important; 
+	height:20px; 
+	padding: 10px; 
+	width: 100%; 
+	float: left; 
+	
+	border-bottom: 1px solid #b6d1f2;
+}
+.subrowContainer {
+	border-left:1px solid  #b6d1f2!important; 
+	height:20px; 
+	padding: 10px; 
+	width: 100%; 
+	float: left; 
+	
+	border-bottom: 1px solid #b6d1f2;
+}
+
+.subRow{
+	width: 100%; 
+	float: left; 	
+}
+
+.accordAjaxLoader {
+	width: 20px;
+	height: 20px;
+	float: left;
+	position: relative;
+	display: none;
+}
+.row-fluid .span12 {
+	background-color: #ffffff;
+}
+
+.table2sortSub {
+	/*margin-top: 10px;*/
+	margin-bottom: 10px;
+	border-left: 1px solid red;
+	float: left;
+	
+}
+
+
+.arrow_up, .arrow_down {
+    cursor: pointer;
+    float: left;
+    height: 20px;
+    margin-top: 7px;
+    width: 20px;
+}
+
+

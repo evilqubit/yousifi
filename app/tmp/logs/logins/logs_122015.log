@@ -1,0 +1,6 @@
+2015-12-02 09:18:49 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-20 10:11:58 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

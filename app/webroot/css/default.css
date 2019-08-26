@@ -1,0 +1,275 @@
+.homeShopTopLayer{	
+	border-right:1px solid #2b2b2b; width: 174px; height: 673px; position: absolute; z-index: 111; background-color:#1e1e1e; top: 0px;
+}
+
+
+
+/* vacancies
+------------------------------------------------------------------------------*/
+
+.events {
+	overflow: hidden;
+}
+
+.events .right-info {
+	margin-bottom: -2000px;
+	background: #8dc63f;
+	width: 320px;
+	margin-left: -320px;
+	float: right;
+	padding: 144px 0 2000px 0;
+	font-size: 30px;
+	line-height: 30px;
+	text-align: center;
+	color: #000;
+}
+
+.events .right-info h3 {
+	font-size: 89px;
+	line-height: 69px;
+	text-transform: uppercase;
+	font-family: 'spinwerad';
+	letter-spacing: -3px;
+	padding-bottom: 5px;
+}
+
+.events .right-info h3 span {
+	padding-left: 155px;
+	display: inline-block;
+}
+
+.events .right-info p {
+	font-weight: 300;
+	text-transform: uppercase;
+}
+
+.events .info {
+	float: left;
+	padding-right: 20px;
+	width: 70%;
+	/*text-transform: uppercase;*/
+	padding-left: 20px;
+}
+
+.events .info h2 {
+	color: #000;
+	font-size: 26px;
+	line-height: 26px;
+	margin: 27px 0 21px;
+}
+
+.events .info h3 {
+	font-size: 18px;
+	line-height: 18px;
+	color: #000;
+	margin: 0 0 8px;
+}
+
+.events .info article {
+	float: left;
+	width: 95%;
+	border-bottom: 1px solid #e4e4e4;
+	padding: 0 0 15px 0;
+	margin: 0 4% 16px 0;
+}
+
+.events .info .btn {
+	float: right;
+	width: 128px;
+	margin: -3px 0 0 0;
+}
+
+
+
+
+
+.events .infos {
+	width: 70%;
+}
+
+.internal_event-info .month {
+	display: block;
+	width: auto;
+	float: left;
+	text-align: left;
+	margin-right: 10px;
+	
+	color: #000;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    line-height: 44px;
+	
+}
+
+.internal_event-info .day {
+	display: block;
+	width: 42px;
+	height: 42px;
+	border-radius: 50px;
+	float: left;
+	text-align: center;
+	margin-right: 4px;
+	background: #ec008c;
+	color: #fff;
+	
+	
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    line-height: 44px;
+}
+
+.internal_event-info .day.dark {
+	background: #000;
+}
+
+
+@media screen and (max-width: 767px) {
+	
+	.events .infos {
+		width: 100%;
+	}
+	.events .info {
+		width: 100%;
+	}
+}
+
+
+
+
+.search_main_container {
+	margin-top: 40px;
+}
+
+.search_main_title{
+	color: #000;
+    font-size: 24px;
+    line-height: 26px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.SearchTitle{
+	color: #000;
+    font-size: 18px;
+    line-height: 18px;
+    margin: 0 0 8px;
+    font-weight: bold;
+    margin-bottom: 5;
+    
+}
+.SearchText {
+	color: #6a6a6a;
+    font: 14px/19px "DINPro";
+    
+}
+.searchResultContainer {
+	border-bottom: 1px solid #e4e4e4;
+}
+.searchResultContainer a {
+	text-decoration: none;
+	border: none;
+	outline: none;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	display: block;
+}
+.highlight{
+	background: none repeat scroll 0 0 #11b3c0;
+	color: #ffffff; 
+}
+
+.sitemapTitle {
+	float: left;
+	margin-bottom: 5px;
+}
+.sitemapTitle a {
+	color: #000;
+    line-height: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: none;
+    outline: none;  
+    padding-right: 15px;   
+}
+
+.sitemapTitleLink:hover {
+	text-decoration: none;
+	color: #000;
+}
+.sitemapTitleLink {
+	color: #000;
+    line-height: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: none;
+    outline: none;  
+    padding-right: 15px;   
+    
+}
+
+
+.topLayer {
+	position: absolute; 
+	z-index: 2; 
+	background-color: #1e1e1e; 
+	height: 239px; 
+	width: 100%;
+	
+	opacity:0.5;
+	-moz-opacity:0.5;
+	filter: alpha(opacity=50) !important;
+}
+
+
+.viewStoreCheckBoxContainer {
+	width: 250px;
+	margin-bottom: 10px;
+	position: relative;
+}
+.checkBoxLabelText {
+	font-family: 'DINPro';
+	font-size: 17px;
+	color: #ffffff;
+}
+
+.checkboxBottomBorder{
+	width: 226px;
+	height: 1px; 
+	background-color: #838383;
+	float: right;
+	margin-top: 5px;
+}
+
+.storeLoader{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	left: -20px;
+	display: none;
+}
+
+.storeSearchResultTitle {
+	width: 180px;
+	float: left;
+}
+.storeSearchResultTitle a{
+	
+	padding-right: 10px;
+	font-family: 'DINPro';
+	font-size: 17px;
+	color: #ffffff;
+	margin-bottom: 6px;
+	text-decoration: none;
+	display: block;
+	border: none;
+	outline: none;
+}
+
+
+.cinemaFeatures {
+	position: absolute; 
+	left: 0px; 
+	height: 28px; 
+	top: 0px;
+	
+}
+

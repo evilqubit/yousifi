@@ -1,0 +1,124 @@
+2016-04-04 10:58:44 Error: [MissingActionException] Action AdministratorsController::img() could not be found.
+#0 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AdministratorsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-04 10:58:46 Error: [MissingControllerException] Controller class Apple-touch-icon-precomposed.pngController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-04 10:58:47 Error: [MissingControllerException] Controller class Apple-touch-icon.pngController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-08 17:57:53 Error: [MissingActionException] Action AdministratorsController::img() could not be found.
+#0 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /home/alyousifi/www/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AdministratorsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-04-08 17:57:55 Error: [MissingControllerException] Controller class Apple-touch-icon-precomposed.pngController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-08 17:57:56 Error: [MissingControllerException] Controller class Apple-touch-icon.pngController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-10 11:03:28 Error: [MissingControllerException] Controller class Apple-touch-icon-precomposed.pngController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-10 11:03:29 Warning: Warning (512): SplFileInfo::openFile(/home/alyousifi/www/app/tmp/cache/dynamic_pages/get_home_our_business_eng) [<a href='splfileinfo.openfile'>splfileinfo.openfile</a>]: failed to open stream: Permission denied in [/home/alyousifi/www/lib/Cake/Cache/Engine/FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE/Cake/Cache/Engine/FileEngine.php, line 313
+FileEngine::write() - CORE/Cake/Cache/Engine/FileEngine.php, line 117
+Cache::write() - CORE/Cake/Cache/Cache.php, line 298
+DynamicPage::get_home_our_business() - APP/Model/DynamicPage.php, line 109
+PagesController::display() - APP/Controller/PagesController.php, line 89
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2016-04-10 11:03:29 Warning: Warning (512): DynamicPage cache was unable to write 'get_home_our_business_eng' to File cache in [/home/alyousifi/www/lib/Cake/Cache/Cache.php, line 309]
+Trace:
+Cache::write() - CORE/Cake/Cache/Cache.php, line 309
+DynamicPage::get_home_our_business() - APP/Model/DynamicPage.php, line 109
+PagesController::display() - APP/Controller/PagesController.php, line 89
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2016-04-10 11:03:29 Warning: Warning (512): SplFileInfo::openFile(/home/alyousifi/www/app/tmp/cache/dynamic_pages/get_home_latest_news_eng) [<a href='http://php.net/splfileinfo.openfile'>splfileinfo.openfile</a>]: failed to open stream: Permission denied in [/home/alyousifi/www/lib/Cake/Cache/Engine/FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE/Cake/Cache/Engine/FileEngine.php, line 313
+FileEngine::write() - CORE/Cake/Cache/Engine/FileEngine.php, line 117
+Cache::write() - CORE/Cake/Cache/Cache.php, line 298
+DynamicPage::get_home_latest_news() - APP/Model/DynamicPage.php, line 135
+PagesController::display() - APP/Controller/PagesController.php, line 101
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2016-04-10 11:03:29 Warning: Warning (512): DynamicPage cache was unable to write 'get_home_latest_news_eng' to File cache in [/home/alyousifi/www/lib/Cake/Cache/Cache.php, line 309]
+Trace:
+Cache::write() - CORE/Cake/Cache/Cache.php, line 309
+DynamicPage::get_home_latest_news() - APP/Model/DynamicPage.php, line 135
+PagesController::display() - APP/Controller/PagesController.php, line 101
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2016-04-10 11:03:29 Error: [MissingControllerException] Controller class Apple-touch-icon.pngController could not be found.
+#0 /home/alyousifi/www/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-04-11 13:59:34 Warning: Warning (512): SplFileInfo::openFile(/home/alyousifi/www/app/tmp/cache/dynamic_pages/get_home_our_business_eng) [<a href='splfileinfo.openfile'>splfileinfo.openfile</a>]: failed to open stream: Permission denied in [/home/alyousifi/www/lib/Cake/Cache/Engine/FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE/Cake/Cache/Engine/FileEngine.php, line 313
+FileEngine::write() - CORE/Cake/Cache/Engine/FileEngine.php, line 117
+Cache::write() - CORE/Cake/Cache/Cache.php, line 298
+DynamicPage::get_home_our_business() - APP/Model/DynamicPage.php, line 109
+PagesController::display() - APP/Controller/PagesController.php, line 89
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2016-04-11 13:59:34 Warning: Warning (512): DynamicPage cache was unable to write 'get_home_our_business_eng' to File cache in [/home/alyousifi/www/lib/Cake/Cache/Cache.php, line 309]
+Trace:
+Cache::write() - CORE/Cake/Cache/Cache.php, line 309
+DynamicPage::get_home_our_business() - APP/Model/DynamicPage.php, line 109
+PagesController::display() - APP/Controller/PagesController.php, line 89
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2016-04-11 13:59:34 Warning: Warning (512): SplFileInfo::openFile(/home/alyousifi/www/app/tmp/cache/dynamic_pages/get_home_latest_news_eng) [<a href='http://php.net/splfileinfo.openfile'>splfileinfo.openfile</a>]: failed to open stream: Permission denied in [/home/alyousifi/www/lib/Cake/Cache/Engine/FileEngine.php, line 313]
+Trace:
+FileEngine::_setKey() - CORE/Cake/Cache/Engine/FileEngine.php, line 313
+FileEngine::write() - CORE/Cake/Cache/Engine/FileEngine.php, line 117
+Cache::write() - CORE/Cake/Cache/Cache.php, line 298
+DynamicPage::get_home_latest_news() - APP/Model/DynamicPage.php, line 135
+PagesController::display() - APP/Controller/PagesController.php, line 101
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2016-04-11 13:59:34 Warning: Warning (512): DynamicPage cache was unable to write 'get_home_latest_news_eng' to File cache in [/home/alyousifi/www/lib/Cake/Cache/Cache.php, line 309]
+Trace:
+Cache::write() - CORE/Cake/Cache/Cache.php, line 309
+DynamicPage::get_home_latest_news() - APP/Model/DynamicPage.php, line 135
+PagesController::display() - APP/Controller/PagesController.php, line 101
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
